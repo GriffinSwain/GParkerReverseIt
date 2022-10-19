@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\truck\\.nuget\\packages\\": {}
+    "/Users/arelymartinez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesGitHub\\Completed\\GParkerReverseIt\\GParkerReverseIt.csproj",
+      "projectUniqueName": "/Users/arelymartinez/Desktop/GitRepository/GParkerReverseIt/GParkerReverseIt.csproj",
       "projectName": "GParkerReverseIt",
-      "projectPath": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesGitHub\\Completed\\GParkerReverseIt\\GParkerReverseIt.csproj",
-      "packagesPath": "C:\\Users\\truck\\.nuget\\packages\\",
-      "outputPath": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesGitHub\\Completed\\GParkerReverseIt\\obj\\",
+      "projectPath": "/Users/arelymartinez/Desktop/GitRepository/GParkerReverseIt/GParkerReverseIt.csproj",
+      "packagesPath": "/Users/arelymartinez/.nuget/packages/",
+      "outputPath": "/Users/arelymartinez/Desktop/GitRepository/GParkerReverseIt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\truck\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/arelymartinez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
