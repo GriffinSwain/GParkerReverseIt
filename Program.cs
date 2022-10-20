@@ -2,7 +2,10 @@
 //September 17, 2022
 //Mini Challenge #7 Remastered - Reverse it
 //This program takes a user's input, displays it, and then writes out the same input but reversed
-//Peer Reviewed by Arely Martinez 
+//Peer Reviewed by Arely Martinez
+//On top of vaildating if the user wants to play again Griffin went above and beyond and vailated that the user enter more than a single character or if 
+//the user just entered the space bar. On top of that yes theres more Giffin also added another feature where the resevered response is slowly typed out. 
+//They not only hit every checkmark on the assignment Griffin also added some impresive features that werent demanded of him. 
 
 string input;
 string reverse = "";
