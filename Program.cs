@@ -1,6 +1,7 @@
 ﻿//Griffin Parker
 //September 17, 2022
 //Mini Challenge #7 Remastered - Reverse it
+//This program takes a user's input, displays it, and then writes out the same input but reversed
 
 string input;
 string reverse = "";
